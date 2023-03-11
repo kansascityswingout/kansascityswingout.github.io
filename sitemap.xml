@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://kansascityswingout.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://kansascityswingout.github.io/</loc>
+</url>
+<url>
+<loc>https://kansascityswingout.github.io/about.html</loc>
+<lastmod>2023-03-09T21:38:27-06:00</lastmod>
+</url>
+<url>
+<loc>https://kansascityswingout.github.io/events.html</loc>
+<lastmod>2023-03-09T21:38:01-06:00</lastmod>
+</url>
+<url>
+<loc>https://kansascityswingout.github.io/landing-page.html</loc>
+<lastmod>2023-03-09T22:40:32-06:00</lastmod>
+<image:image>
+<image:loc>https://kansascityswingout.github.io/media\posts\6/gallery/334975659_1243165933223678_2812137399140428557_n-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://kansascityswingout.github.io/media\posts\6/gallery/334978382_148611284758900_354552147529245366_n-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://kansascityswingout.github.io/media\posts\6/gallery/335016763_527040729587347_4082531650654121202_n-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://kansascityswingout.github.io/media\posts\6/gallery/335036821_576457051083820_7304485612690127787_n-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://kansascityswingout.github.io/our-people.html</loc>
+<lastmod>2023-03-09T21:38:05-06:00</lastmod>
+</url>
+</urlset>

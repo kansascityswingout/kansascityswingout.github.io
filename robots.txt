@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kansascityswingout.github.io/sitemap.xml
